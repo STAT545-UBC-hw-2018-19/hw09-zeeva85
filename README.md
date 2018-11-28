@@ -19,15 +19,15 @@ The commit history of this repository reflects what a student might do as she wo
   [x] How to use `make` from the shell  
   [x] How Git facilitates the process of building a pipeline
   
-  ----------------------------------------------------
-File                       | link | 
-----------------------------|-----|
-**make**            |  |
-** .**     |   p|
-**..**        | |
-**;;**      |  p|
-**;;** |  p p  |
-**;;**          | p |
+------------------------------------
+File                        |  | 
+----------------------------|------|
+[**make**](https://github.com/STAT545-UBC-students/hw09-zeeva85/blob/master/Makefile)|
+[**R script 1**](https://github.com/STAT545-UBC-students/hw09-zeeva85/blob/master/freq_let.R)|
+[**R script 2**](https://github.com/STAT545-UBC-students/hw09-zeeva85/blob/master/freq_plot.R)|
+[**master rmd generator**](https://github.com/STAT545-UBC-students/hw09-zeeva85/blob/master/reportgen.txt)|
+[**words.txt**](https://raw.githubusercontent.com/STAT545-UBC-students/hw09-zeeva85/master/words.txt)|
+[**python script**](https://github.com/STAT545-UBC-students/hw09-zeeva85/blob/master/download.py)|
 
 
 
